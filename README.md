@@ -1,9 +1,9 @@
 - 👋 hola,soy diego donoso
-- 👀 Estoy interesado por la inteligencia artificial y su beneficio en los estudiantes
-- - 🌱 Actualmente soy estudiante de ingenieria civil industrial
+- 👀 Estoy interesado por la inteligencia artificial y su beneficio en los estudiantes, ademas busco encontrarme con personas que les guste estudiar y pasar el rato
+- 🌱 Actualmente soy estudiante de ingenieria civil industrial
 - 💞️ Me gusta colaborar con personas de mismos intereses y cuales tienen perspectivas diferentes o fuera de lo común.
-- - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 Pueden contactarme por inbox o por el siguiente correo: ddonoso@utem.cl
+-  😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
